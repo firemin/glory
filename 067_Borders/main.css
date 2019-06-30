@@ -1,0 +1,23 @@
+div{
+  width: 100px;
+  height: 100px;
+  border: 1px solid red;
+  border-radius: 20px;
+  background-image: url("../066_Exercises One/01/puppy.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+img{
+  border: 10px groove orangered;
+  border-radius: 100%
+}
+marshmello{
+  border: 10px dashed orangered;
+}
+scruffy{
+  border: 10px dotted orangered;
+}
+opendoor{
+  border: 10px double orangered;
+}
